@@ -1,0 +1,7 @@
+This mod contains the expanded boss themes for the Beyond the Forgotten Ages mod. Simply have this mod enabled while playing BTFA and the new boss music will play automatically for supported bosses.
+
+Acheron: "Infinite Being" by OUT
+Titan Rock: "God of War" by Daisuke Ishiwatari
+Arterius: "The Darkness That Chills Men's Hearts" by Oscar Araujo & Ferran Cruixent
+
+The BTFA team does not claim to own these songs.

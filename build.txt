@@ -1,0 +1,3 @@
+author = Terry
+version = 0.1
+displayName = BTFA Songs Extension
